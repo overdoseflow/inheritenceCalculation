@@ -7,7 +7,7 @@ public class Inheritence {
 
     public static void main(String[] args) {
         
-        My_Calculation demo = new My_Calculation();
+        otherCalculation demo = new otherCalculation();
         // Calling class
         
         Scanner s = new Scanner(System.in);
